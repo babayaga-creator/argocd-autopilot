@@ -1,0 +1,11 @@
+{
+  "appName": "web",
+  "userGivenName": "web",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/web/overlays/my-project",
+  "srcRepoURL": "https://github.com/babayaga-creator/argocd-autopilot.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
